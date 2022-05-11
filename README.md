@@ -7,7 +7,8 @@ They are SVG format, so might be useful for other purposes. These can be dragged
 
 Devices currently in the set are:
 - Raspberry Pi 3CX Controller
-- CAT5 Wallbox
+- CAT5 Wallbox (2 Port)
+- CAT5 Wallbox (4 Port)
 - Generic Desktop Computer
 - Draytek 2765
 - Edge Switch 24-port
