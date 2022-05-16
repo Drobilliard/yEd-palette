@@ -38,5 +38,6 @@ Devices currently in the set are:
 - Unifi 24 Port PoE Switch
 - Draytek Vigor 130
 - W54P Cordless Phone Base Station
+- Watchguard Firebox M690
 - Zyxel 24 Port Switch
 - Zyxel 48 Port Switch
