@@ -1,7 +1,7 @@
 # yEd-palette
 SVG Drawings of Network Equipment for the software yED
 
-I have been using the software yEd to draw up comms cabinets at my workplace. The default stuff within the software is ok, but it won't set the world on fire. So as I went, I started drawing up real world equipment that we were using. I thought rather than just keep it all, I would add them to a git so other people might get some use from them. 
+I have been using the software yEd to draw up comms cabinets at my workplace. The default stuff within the software is ok, but it won't set the world on fire. So as I went, I started drawing up real world equipment that we were using. I thought rather than just keep it all, I would add them to a git so other people might get some use from them. There is also some bits and pieces for physical access hardware - mainly from Unifi/Ubiquiti.
 
 They are SVG format, so might be useful for other purposes. These can be dragged and dropped into the software directly. 
 
