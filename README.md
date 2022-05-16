@@ -6,6 +6,7 @@ I have been using the software yEd to draw up comms cabinets at my workplace. Th
 They are SVG format, so might be useful for other purposes. These can be dragged and dropped into the software directly. 
 
 Devices currently in the set are:
+- 21CN Optical Fibre Access Switch
 - Raspberry Pi 3CX Controller
 - CAT5 Wallbox (2 Port)
 - CAT5 Wallbox (4 Port)
