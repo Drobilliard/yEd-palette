@@ -13,6 +13,7 @@ Devices currently in the set are:
 - CAT5 Wallbox (4 Port)
 - Generic Desktop Computer
 - Draytek 2765
+- Dell Aruba Access Point
 - Edge Switch 24-port
 - Fanvil X4 Desk Phone
 - Fibre to CAT5 Converter
